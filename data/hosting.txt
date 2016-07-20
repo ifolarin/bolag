@@ -1,0 +1,13 @@
+Bolag Resources Hosting Details
+
+Database name :db638352552
+Host name :db638352552.db.1and1.com
+Port :3306
+User name :dbo638352552
+Password: Resources34
+
+
+Protocol SFTP
+host: ftp://ftp.bolagresources.com/
+username: u64873761-br
+Password: Resources12
