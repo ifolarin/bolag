@@ -19,7 +19,7 @@
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info container">
-			&copy; Bolag Resources Limited 2016
+			&copy; 2016 Bolag Resources Limited
 			<span class="sep"> | </span>
 			<a target="_blank" href="<?php echo esc_url( __( 'https://webbasedsol.com', 'sydney' ) ); ?>"><?php printf( __( 'Powered by %s', 'sydney' ), 'Webbased Solutions' ); ?></a>
 		</div><!-- .site-info -->

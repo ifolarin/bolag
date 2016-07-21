@@ -26,3 +26,5 @@ add_filter( 'widget_text', 'do_shortcode');
  */
  require get_stylesheet_directory() . '/inc/slider.php';
  
+ wp_enqueue_script( 'slider-buttons', get_stylesheet_directory_uri() . '/js/slider-buttons.js', array('jquery'),'', true );
+ 

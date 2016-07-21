@@ -1,4 +1,5 @@
-July 21, 2016
+July 21, 2016 - v1.1
 Corrected spelling of Natural on Slider banner
 Added blog news category
 Added mask to slider items
+Updated slider titles and call to action urls for each as per Gbenga's request
