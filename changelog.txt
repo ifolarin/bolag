@@ -1,0 +1,4 @@
+July 21, 2016
+Corrected spelling of Natural on Slider banner
+Added blog news category
+Added mask to slider items

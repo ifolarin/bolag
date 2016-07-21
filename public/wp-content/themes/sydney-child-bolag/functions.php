@@ -19,3 +19,10 @@ require get_stylesheet_directory() . "/widgets/fp-services-type-b.php";
 
 add_filter( 'widget_text', 'shortcode_unautop');
 add_filter( 'widget_text', 'do_shortcode');
+
+/**
+ * Slider
+ * Override parent header with child version
+ */
+ require get_stylesheet_directory() . '/inc/slider.php';
+ 

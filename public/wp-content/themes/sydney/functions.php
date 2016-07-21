@@ -287,7 +287,9 @@ require get_template_directory() . '/inc/page-builder.php';
 /**
  * Slider
  */
+/* commented out to enable override in child theme
 require get_template_directory() . '/inc/slider.php';
+*/
 
 /**
  * Styles
